@@ -1,6 +1,6 @@
 {
     "versi_apk": "1",
-    "url_apk": "https://kt3xm1nqsn.gt.tc/user/v1/unduh.php",
+    "url_apk": "https://kt3xm1nqsn.gt.tc/www/v1/unduh.php",
     "versi_web": "1.0",
     "url_web": [
         "https://repoinvoker1.github.io/krediter/dev/v1/web/index.html",
@@ -11,5 +11,5 @@
     "url_market": "https://repoinvoker1.github.io/krediter/dev/v1/market/data",
     "url_inventori": "https://repoinvoker1.github.io/krediter/dev/v1/inventori/data",
     "url_email": "",
-    "url_servis": "https://kt3xm1nqsn.gt.tc/user/v1/web/integrasi"
+    "url_servis": "https://kt3xm1nqsn.gt.tc/www/v1/web/integrasi"
 }
